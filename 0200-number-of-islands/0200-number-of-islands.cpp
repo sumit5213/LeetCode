@@ -6,7 +6,7 @@ private:
         int n = grid[0].size();
         vis[row][col] = 1;
         // ans.push_back({row, col});
-        grid[row][col]='0';
+        grid[row][col]='1';
         int drow[] = {-1, 0, +1, 0};
         int dcol[] = {0, 1, 0, -1};
         for (int i = 0; i < 4; i++) {
