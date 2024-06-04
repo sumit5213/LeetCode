@@ -3,6 +3,7 @@ public:
     int longestPalindrome(string s) {
         map<char,int> mp;
         int count=0;
+        int mark=false;
         for(char ch:s){
             mp[ch]++;
         }
@@ -12,12 +13,13 @@ public:
             }
             else{
                 count+=ch.second-1;
+                mark=true;
             }
         }
-        if(count<s.length())
-            return count+1;
-        else
-            return count;
+        if(mark)
+            count++;
+        
+        return count;
     }
 
 
