@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumit5213/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -31,3 +33,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
+# Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
