@@ -1,21 +1,24 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        map<char,bool> mp;
+        map<char,int> mp;
         int count=0;
-        for(auto ch:s){
-            if(mp.find(ch)!=mp.end()){
-                mp.erase(ch);
-                count+=2;
+        for(char ch:s){
+            mp[ch]++;
+        }
+        for(auto ch:mp){
+            if(ch.second%2==0){
+                count+=ch.second;
             }
             else{
-                mp[ch]=true;
+                count+=ch.second-1;
             }
         }
-        if(!mp.empty()){
-            count++;
-        }
-        return count;
+        if(count<s.length())
+            return count+1;
+        else
+            return count;
     }
+
 
 };
