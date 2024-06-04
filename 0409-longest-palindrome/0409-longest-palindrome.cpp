@@ -9,7 +9,7 @@ public:
                 count+=2;
             }
             else{
-                mp.insert({ch,true});
+                mp[ch]=true;
             }
         }
         if(!mp.empty()){
