@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumit5213/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -41,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit5213/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit5213/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/sumit5213/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/sumit5213/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
@@ -90,3 +92,11 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumit5213/LeetCode/tree/master/0048-rotate-image) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
