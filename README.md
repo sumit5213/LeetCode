@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumit5213/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -37,6 +38,7 @@
 | [0048-rotate-image](https://github.com/sumit5213/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit5213/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit5213/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0648-replace-words](https://github.com/sumit5213/LeetCode/tree/master/0648-replace-words) |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sumit5213/LeetCode/tree/master/1217-relative-sort-array) |
