@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit5213/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sumit5213/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumit5213/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -48,6 +49,7 @@
 | [0648-replace-words](https://github.com/sumit5213/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/sumit5213/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sumit5213/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/sumit5213/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
@@ -71,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sumit5213/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sumit5213/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -85,6 +88,7 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sumit5213/LeetCode/tree/master/1217-relative-sort-array) |
 # Math
