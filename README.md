@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit5213/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/sumit5213/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sumit5213/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
@@ -47,6 +48,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumit5213/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/sumit5213/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sumit5213/LeetCode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/sumit5213/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/sumit5213/LeetCode/tree/master/0697-degree-of-an-array) |
