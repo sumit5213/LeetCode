@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/sumit5213/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sumit5213/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sumit5213/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sumit5213/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/sumit5213/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/sumit5213/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
