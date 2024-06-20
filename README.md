@@ -63,6 +63,7 @@
 | [1044-find-common-characters](https://github.com/sumit5213/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sumit5213/LeetCode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumit5213/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit5213/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sumit5213/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3227-find-missing-and-repeated-values](https://github.com/sumit5213/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/sumit5213/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sumit5213/LeetCode/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumit5213/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sumit5213/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
@@ -122,6 +124,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sumit5213/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/sumit5213/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/sumit5213/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumit5213/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Bit Manipulation
 |  |
 | ------- |
