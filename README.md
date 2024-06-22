@@ -57,6 +57,7 @@
 | [0502-ipo](https://github.com/sumit5213/LeetCode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/sumit5213/LeetCode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/sumit5213/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0790-global-and-local-inversions](https://github.com/sumit5213/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0853-most-profit-assigning-work](https://github.com/sumit5213/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sumit5213/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sumit5213/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -113,6 +114,7 @@
 | [0048-rotate-image](https://github.com/sumit5213/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/sumit5213/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0790-global-and-local-inversions](https://github.com/sumit5213/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/sumit5213/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 # Matrix
