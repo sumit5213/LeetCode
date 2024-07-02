@@ -11,6 +11,7 @@ public:
                 ans.push_back(ch);
                 mp[ch]--;
             }
+            else continue;
         }
         return ans;
     }
