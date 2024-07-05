@@ -209,4 +209,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumit5213/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
