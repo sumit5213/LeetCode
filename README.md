@@ -199,6 +199,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sumit5213/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -237,4 +238,12 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
