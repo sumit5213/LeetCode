@@ -1,41 +1,34 @@
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-        int ans = 0;
+        int aCount = 0;
+        int bCount = 0;
+        int lesser = min(x, y);
+        int result = 0;
 
-        auto removeSubstring = [&](string s, char first, char second,
-                                   int points) -> pair<string, int> {
-            stack<char> st;
-            int score = 0;
-            for (char ch : s) {
-                if (!st.empty() && st.top() == first && ch == second) {
-                    st.pop();
-                    score += points;
+        for (char c : s) {
+            if (c > 'b') {
+                result += min(aCount, bCount) * lesser;
+                aCount = 0;
+                bCount = 0;
+            } else if (c == 'a') {
+                if (x < y && bCount > 0) {
+                    bCount--;
+                    result += y;
                 } else {
-                    st.push(ch);
+                    aCount++;
+                }
+            } else {
+                if (x > y && aCount > 0) {
+                    aCount--;
+                    result += x;
+                } else {
+                    bCount++;
                 }
             }
-            string remaining;
-            while (!st.empty()) {
-                remaining += st.top();
-                st.pop();
-            }
-            reverse(remaining.begin(), remaining.end());
-            return {remaining, score};
-        };
-
-        if (x > y) {
-            auto result1 = removeSubstring(s, 'a', 'b', x);
-            ans += result1.second;
-            auto result2 = removeSubstring(result1.first, 'b', 'a', y);
-            ans += result2.second;
-        } else {
-            auto result1 = removeSubstring(s, 'b', 'a', y);
-            ans += result1.second;
-            auto result2 = removeSubstring(result1.first, 'a', 'b', x);
-            ans += result2.second;
         }
 
-        return ans;
+        result += min(aCount, bCount) * lesser;
+        return result;
     }
 };
