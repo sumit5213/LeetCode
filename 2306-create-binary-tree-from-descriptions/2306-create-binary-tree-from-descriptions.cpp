@@ -1,52 +1,60 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
+ * };
+ */
 class Solution {
 public:
-    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_set<int> childrenSet;
-        unordered_map<int, pair<int, int>> childrenHashmap;
-
-        for (auto& desc : descriptions) {
-            int parent = desc[0];
-            int child = desc[1];
-            bool isLeft = desc[2] == 1;
-
-            if (childrenHashmap.find(parent) == childrenHashmap.end()) {
-                childrenHashmap[parent] = {-1, -1};
-            }
-
-            childrenSet.insert(child);
-            if (isLeft) {
-                childrenHashmap[parent].first = child;
-            } else {
-                childrenHashmap[parent].second = child;
-            }
-        }
-
-        int headNodeVal;
-        for (auto& [parent, children] : childrenHashmap) {
-            if (childrenSet.find(parent) == childrenSet.end()) {
-                headNodeVal = parent;
-                break;
-            }
-        }
-
-        return constructTree(headNodeVal, childrenHashmap);
+    TreeNode* newNode(int d) {
+        TreeNode* temp = new TreeNode;
+        temp->val = d;
+        temp->left = nullptr;
+        temp->right = nullptr;
+        return temp;
     }
-
-private:
-    TreeNode*
-    constructTree(int curNodeVal,
-                  unordered_map<int, pair<int, int>>& childrenHashmap) {
-        TreeNode* newNode = new TreeNode(curNodeVal);
-        if (childrenHashmap.find(curNodeVal) != childrenHashmap.end()) {
-            auto& children = childrenHashmap[curNodeVal];
-            if (children.first != -1) {
-                newNode->left = constructTree(children.first, childrenHashmap);
+    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
+        unordered_map<int, TreeNode*> mp;
+        for (auto it : descriptions) {
+            TreeNode *parent, *child;
+            if (mp.find(it[0]) != mp.end()) {
+                parent = mp[it[0]];
+            } else {
+                parent = newNode(it[0]);
+                mp[it[0]] = parent;
             }
-            if (children.second != -1) {
-                newNode->right =
-                    constructTree(children.second, childrenHashmap);
+
+            if (mp.find(it[1]) != mp.end()) {
+                child = mp[it[1]];
+            } else {
+                child = newNode(it[1]);
+                mp[it[1]] = child;
+            }
+
+            if (it[2] == 1) {
+                parent->left = child;
+            } else {
+                parent->right = child;
             }
         }
-        return newNode;
+        unordered_map<int, int> storeChild;
+        for (auto it : descriptions) {
+            storeChild[it[1]] = 1;
+        }
+
+        // Find the root of the Tree
+        TreeNode* root;
+        for (auto it : descriptions) {
+            if (storeChild.find(it[0]) == storeChild.end()) {
+                root = mp[it[0]];
+            }
+        }
+        return root;
     }
 };
