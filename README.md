@@ -202,6 +202,7 @@
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sumit5213/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -280,4 +281,8 @@
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sumit5213/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
