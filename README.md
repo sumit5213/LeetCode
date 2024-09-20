@@ -266,6 +266,7 @@
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -345,4 +346,16 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sumit5213/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
