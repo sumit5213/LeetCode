@@ -210,6 +210,7 @@
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/sumit5213/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/sumit5213/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
