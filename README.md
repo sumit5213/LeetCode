@@ -209,6 +209,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sumit5213/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
