@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
@@ -212,6 +213,7 @@
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sumit5213/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
@@ -251,6 +254,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/sumit5213/LeetCode/tree/master/0792-binary-search) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sumit5213/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/sumit5213/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -374,4 +379,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
