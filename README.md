@@ -183,6 +183,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sumit5213/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0792-binary-search](https://github.com/sumit5213/LeetCode/tree/master/0792-binary-search) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sumit5213/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
 | ------- |
