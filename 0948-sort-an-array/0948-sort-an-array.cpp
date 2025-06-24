@@ -1,21 +1,29 @@
 class Solution {
 public:
+    int f(vector<int>& arr, int low, int high) {
+        int pivot = arr[low];
+        int i = low;
+        int j = high;
+        while (i < j) {
+            while (arr[i] <= pivot && i <= high-1)
+                i++;
+            while (arr[j] > pivot && j >= low + 1)
+                j--;
+            if (i < j)
+                swap(arr[i], arr[j]);
+        }
+        swap(arr[low], arr[j]);
+        return j;
+    }
+    void qs(vector<int>& arr, int low, int high) {
+        if (low < high) {
+            int partition = f(arr, low, high);
+            qs(arr, low, partition - 1);
+            qs(arr, partition + 1, high);
+        }
+    }
     vector<int> sortArray(vector<int>& nums) {
-        vector<int> counting(2 * 50000 + 1, 0);
-        for (int num : nums) {
-            // we add 5 * 10^4 because for smallest possible element -5 * 10^4
-            // index must be 0
-            counting[num + 50000]++;
-        }
-        int write_ind = 0;
-        for (int number_ind = 0; number_ind < counting.size(); ++number_ind) {
-            int freq = counting[number_ind];
-            while (freq != 0) {
-                nums[write_ind] = number_ind - 50000;
-                write_ind++;
-                freq--;
-            }
-        }
+        qs(nums, 0, nums.size()-1);
         return nums;
     }
 };
