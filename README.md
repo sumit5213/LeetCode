@@ -214,6 +214,7 @@
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
@@ -398,4 +399,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
