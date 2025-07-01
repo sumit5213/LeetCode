@@ -213,6 +213,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -334,6 +336,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -399,6 +402,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
