@@ -194,6 +194,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -215,6 +216,7 @@
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
@@ -400,4 +402,5 @@
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
