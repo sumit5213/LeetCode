@@ -1,32 +1,40 @@
 class Solution {
 public:
-    bool isPalidrome(string s, int start, int end){
-        while(start<=end){
-           if(s[start++]!=s[end--]){
-            return false;
-           } 
-        }return true;
-    }
-
-    void func(int index, string s, vector<vector<string>>&ans, vector<string> &temp){
-        if(index==s.length()){
-            ans.push_back(temp);
+    void backtrack(const string& s, int start, vector<string>& path,
+                   vector<vector<string>>& result,
+                   const vector<vector<bool>>& dp) {
+        if (start == s.length()) {
+            result.push_back(path);
             return;
         }
-
-        for(int i=index;i<s.length();i++){
-            if(isPalidrome(s, index, i)){
-                temp.push_back(s.substr(index, i-index+1));
-                func(i+1, s, ans, temp);
-                temp.pop_back();
+        for (int end = start; end < s.length(); ++end) {
+            if (dp[start][end]) {
+                path.push_back(s.substr(start, end - start + 1));
+                backtrack(s, end + 1, path, result, dp);
+                path.pop_back();
             }
         }
     }
 
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
-        vector<string> temp;
-        func(0, s, ans, temp);
-        return ans;
+        int n = s.length();
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+
+        for (int i = 0; i < n; ++i) {
+            dp[i][i] = true;
+        }
+        for (int length = 2; length <= n; ++length) {
+            for (int i = 0; i <= n - length; ++i) {
+                int j = i + length - 1;
+                if (s[i] == s[j] && (length == 2 || dp[i + 1][j - 1])) {
+                    dp[i][j] = true;
+                }
+            }
+        }
+
+        vector<vector<string>> result;
+        vector<string> path;
+        backtrack(s, 0, path, result, dp);
+        return result;
     }
 };
