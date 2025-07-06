@@ -299,6 +299,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
@@ -369,6 +370,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1196-filling-bookcase-shelves](https://github.com/sumit5213/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit5213/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit5213/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -410,6 +412,7 @@
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
+| [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
