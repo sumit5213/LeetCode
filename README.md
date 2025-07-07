@@ -278,6 +278,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/sumit5213/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/sumit5213/LeetCode/tree/master/1642-water-bottles) |
@@ -318,6 +319,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/sumit5213/LeetCode/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 ## Tree
 |  |
