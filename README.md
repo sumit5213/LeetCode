@@ -220,6 +220,7 @@
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/sumit5213/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
@@ -358,6 +359,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/sumit5213/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -380,6 +382,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sumit5213/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/sumit5213/LeetCode/tree/master/1196-filling-bookcase-shelves) |
