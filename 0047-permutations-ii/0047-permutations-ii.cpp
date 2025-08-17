@@ -1,30 +1,23 @@
 class Solution {
 public:
-    void func(vector<int>& nums, vector<int> &ds, vector<vector<int>> &ans, vector<int> &freq){
-        if(ds.size()==nums.size()){
-            ans.push_back(ds);
+    void func(int ind, vector<int>& nums, vector<vector<int>>& ans) {
+        if (ind == nums.size()) {
+            ans.push_back(nums);
             return;
         }
-
-        for(int i=0;i<nums.size(); i++){
-            if(freq[i]) continue;
-            if( i>0 && nums[i]==nums[i-1] && !freq[i-1]) continue;
-            // if(!freq[i]){
-                ds.push_back(nums[i]);
-                freq[i]=1;
-                func(nums, ds, ans, freq);
-                freq[i]=0;
-                ds.pop_back();
-            // }
+        unordered_set<int> seen;
+        for (int i = ind; i < nums.size(); i++) {
+            if(seen.count(nums[i])) continue;
+            seen.insert(nums[i]);
+            swap(nums[i], nums[ind]);
+            func(ind + 1, nums, ans);
+            swap(nums[i], nums[ind]);
         }
     }
-
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<int> freq(nums.size(), 0);
-        vector<int> ds;
+        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
-        func(nums, ds, ans, freq);
+        func(0, nums, ans);
         return ans;
     }
 };
