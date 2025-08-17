@@ -217,6 +217,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/sumit5213/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/sumit5213/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
