@@ -15,7 +15,7 @@ public:
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        // sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
         func(0, nums, ans);
         return ans;
