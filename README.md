@@ -285,10 +285,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit5213/LeetCode/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sumit5213/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit5213/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/sumit5213/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
@@ -334,6 +336,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit5213/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/sumit5213/LeetCode/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 ## Tree
