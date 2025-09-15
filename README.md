@@ -272,6 +272,7 @@
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit5213/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sumit5213/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit5213/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sumit5213/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
