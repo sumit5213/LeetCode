@@ -207,6 +207,7 @@
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sumit5213/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -247,6 +248,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/sumit5213/LeetCode/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sumit5213/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -265,6 +267,7 @@
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -277,6 +280,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sumit5213/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
