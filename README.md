@@ -280,6 +280,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sumit5213/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/sumit5213/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -333,6 +334,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sumit5213/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/sumit5213/LeetCode/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumit5213/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
