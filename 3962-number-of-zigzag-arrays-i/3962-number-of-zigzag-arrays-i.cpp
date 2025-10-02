@@ -2,9 +2,8 @@ class Solution {
 public:
     int zigZagArrays(int n, int l, int r) {
         int MOD = 1e9 + 7;
-        vector<int> dp(r + 1);
-        fill(dp.begin(), dp.end(), 1);
-
+        vector<int> dp(r + 1, 1);
+        
         for (int i = 1; i < n; i++) {
             vector<int> next_dp(r + 1);
             if (i % 2 == 1) {
