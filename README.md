@@ -243,6 +243,7 @@
 | [0493-reverse-pairs](https://github.com/sumit5213/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sumit5213/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/sumit5213/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/sumit5213/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sumit5213/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -461,6 +462,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sumit5213/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
