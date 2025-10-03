@@ -33,7 +33,7 @@ public:
             int i=p.second.first;
             int j=p.second.second;
 
-            for(auto dir:directions){
+            for(vector<int> &dir:directions){
                 int ii=i+dir[0];
                 int jj=j+dir[1];
 
