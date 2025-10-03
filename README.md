@@ -225,6 +225,7 @@
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sumit5213/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumit5213/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sumit5213/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sumit5213/LeetCode/tree/master/0049-group-anagrams) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit5213/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sumit5213/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sumit5213/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit5213/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
@@ -358,6 +360,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit5213/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/sumit5213/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
@@ -424,6 +427,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit5213/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sumit5213/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -493,6 +497,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit5213/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/sumit5213/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Enumeration
 |  |
