@@ -214,6 +214,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Array
@@ -239,6 +240,7 @@
 | [0283-move-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit5213/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sumit5213/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sumit5213/LeetCode/tree/master/0493-reverse-pairs) |
@@ -394,6 +396,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -445,6 +448,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sumit5213/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Rolling Hash
 |  |
