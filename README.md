@@ -211,6 +211,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sumit5213/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [0238-product-of-array-except-self](https://github.com/sumit5213/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
 | ------- |
@@ -475,6 +479,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sumit5213/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
 |  |
 | ------- |
