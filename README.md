@@ -266,6 +266,7 @@
 | [1803-average-waiting-time](https://github.com/sumit5213/LeetCode/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sumit5213/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -339,6 +340,7 @@
 | [1642-water-bottles](https://github.com/sumit5213/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sumit5213/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -369,6 +371,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit5213/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sumit5213/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit5213/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sumit5213/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
