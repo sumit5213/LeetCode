@@ -233,6 +233,7 @@
 | [0049-group-anagrams](https://github.com/sumit5213/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/sumit5213/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sumit5213/LeetCode/tree/master/0189-rotate-array) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sumit5213/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sumit5213/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sumit5213/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sumit5213/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -399,12 +401,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sumit5213/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -492,6 +496,7 @@
 | [0046-permutations](https://github.com/sumit5213/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumit5213/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
