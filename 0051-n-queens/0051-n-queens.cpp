@@ -3,11 +3,15 @@ public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
         vector<string> board(n, string(n, '.'));
-        solve(0, ans, board, n);
+        vector<int> leftRow(n,0);
+        vector<int> upperDiagonal(2*n-1, 0);
+        vector<int> lowerDiagonal(2*n-1, 0);
+        solve(0, ans, board, n, leftRow, upperDiagonal, lowerDiagonal);
         return ans;
     }
 
-    void solve(int col, vector<vector<string>> &ans, vector<string> & board, int n){
+    void solve(int col, vector<vector<string>> &ans, vector<string> & board, int n, vector<int> &leftRow, 
+        vector<int> &upperDiagonal, vector<int> &lowerDiagonal){
 
         if(col==n){
             ans.push_back(board);
@@ -15,38 +19,19 @@ public:
         }
 
         for(int row=0; row<n;row++){
-            if(isSafe(row, col, board, n)){
+            if(leftRow[row]==0 && lowerDiagonal[row+col]==0 && upperDiagonal[n-1+col-row]==0){
                 board[row][col]='Q';
-                solve(col+1, ans, board, n);
+                leftRow[row]=1;
+                lowerDiagonal[row+col]=1;
+                upperDiagonal[n-1+col-row]=1;
+                solve(col+1, ans, board, n, leftRow, upperDiagonal, lowerDiagonal);
                 board[row][col]='.';
+                leftRow[row]=0;
+                lowerDiagonal[row+col]=0;
+                upperDiagonal[n-1+col-row]=0;
             }
         }
     }
 
-    bool isSafe(int row, int col, vector<string> & board, int n){
-        int roww=row;
-        int coll=col;
-
-        while(row>=0 && col>=0){
-            if(board[row][col]=='Q') return false;
-            row--; col--;
-        }
-
-        row=roww;
-        col=coll;
-        while(col>=0){
-            if(board[row][col]=='Q') return false;
-             col--;
-        }
-
-        row=roww;
-        col=coll;
-        while(col>=0 && row<n){
-            if(board[row][col]=='Q') return false;
-             col--;
-             row++;
-        }
-        return true;
-    }
-
+    
 };
