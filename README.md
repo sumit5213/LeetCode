@@ -286,6 +286,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -331,6 +332,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit5213/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumit5213/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/sumit5213/LeetCode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sumit5213/LeetCode/tree/master/0948-sort-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -506,6 +509,7 @@
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sumit5213/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
 |  |
 | ------- |
@@ -530,6 +534,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit5213/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Combinatorics
 |  |
