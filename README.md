@@ -336,6 +336,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit5213/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumit5213/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/sumit5213/LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sumit5213/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
