@@ -236,6 +236,7 @@
 | [0049-group-anagrams](https://github.com/sumit5213/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sumit5213/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sumit5213/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sumit5213/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -285,6 +286,7 @@
 | [0001-two-sum](https://github.com/sumit5213/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sumit5213/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumit5213/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumit5213/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
