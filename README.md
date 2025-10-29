@@ -279,6 +279,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
@@ -360,6 +361,7 @@
 | [2169-simple-bank-system](https://github.com/sumit5213/LeetCode/tree/master/2169-simple-bank-system) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
@@ -367,6 +369,7 @@
 | [0238-product-of-array-except-self](https://github.com/sumit5213/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
