@@ -348,6 +348,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit5213/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sumit5213/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -513,6 +514,7 @@
 | ------- |
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sumit5213/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
