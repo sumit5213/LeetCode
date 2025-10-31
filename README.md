@@ -281,6 +281,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumit5213/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
@@ -302,6 +303,7 @@
 | [2169-simple-bank-system](https://github.com/sumit5213/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sumit5213/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumit5213/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +353,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit5213/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumit5213/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit5213/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
