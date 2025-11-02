@@ -278,6 +278,7 @@
 | [2169-simple-bank-system](https://github.com/sumit5213/LeetCode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit5213/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sumit5213/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sumit5213/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -364,6 +365,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sumit5213/LeetCode/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sumit5213/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -448,6 +450,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sumit5213/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sumit5213/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit5213/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sumit5213/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
