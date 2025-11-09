@@ -508,6 +508,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit5213/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumit5213/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit5213/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sumit5213/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit5213/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sumit5213/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Shortest Path
@@ -538,6 +539,7 @@
 | ------- |
 | [0078-subsets](https://github.com/sumit5213/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sumit5213/LeetCode/tree/master/0268-missing-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sumit5213/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit5213/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
@@ -564,6 +566,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sumit5213/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sumit5213/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
 |  |
