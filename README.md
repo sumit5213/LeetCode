@@ -255,6 +255,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit5213/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumit5213/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sumit5213/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sumit5213/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit5213/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -401,6 +402,7 @@
 | [0392-is-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sumit5213/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sumit5213/LeetCode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0726-number-of-atoms](https://github.com/sumit5213/LeetCode/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumit5213/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sumit5213/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -503,6 +505,7 @@
 | [0152-maximum-product-subarray](https://github.com/sumit5213/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/sumit5213/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sumit5213/LeetCode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/sumit5213/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sumit5213/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/sumit5213/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit5213/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
