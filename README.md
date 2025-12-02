@@ -298,6 +298,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sumit5213/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sumit5213/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/sumit5213/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumit5213/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sumit5213/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sumit5213/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumit5213/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumit5213/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sumit5213/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sumit5213/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -621,4 +624,8 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sumit5213/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/sumit5213/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
