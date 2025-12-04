@@ -384,6 +384,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sumit5213/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sumit5213/LeetCode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/sumit5213/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sumit5213/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/sumit5213/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/sumit5213/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -421,6 +422,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/sumit5213/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/sumit5213/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sumit5213/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/sumit5213/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sumit5213/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sumit5213/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sumit5213/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -438,6 +440,7 @@
 | [1720-crawler-log-folder](https://github.com/sumit5213/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sumit5213/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sumit5213/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/sumit5213/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
