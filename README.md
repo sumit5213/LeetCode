@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sumit5213/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2092-find-all-people-with-secret](https://github.com/sumit5213/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sumit5213/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sumit5213/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -217,6 +218,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/sumit5213/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sumit5213/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumit5213/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/sumit5213/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sumit5213/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sumit5213/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
@@ -467,6 +469,7 @@
 | [0079-word-search](https://github.com/sumit5213/LeetCode/tree/master/0079-word-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sumit5213/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sumit5213/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/sumit5213/LeetCode/tree/master/2092-find-all-people-with-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -540,6 +543,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/sumit5213/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit5213/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2092-find-all-people-with-secret](https://github.com/sumit5213/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sumit5213/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Rolling Hash
 |  |
@@ -634,4 +638,8 @@
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/sumit5213/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/sumit5213/LeetCode/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
